@@ -6,6 +6,7 @@
     <VBox alignItems="Center">
     <Text text="A Trail Application for exploring Cloud Transport Management System" ></Text>
     <Text text="A Text to demonstrate the CI&amp;CD Pipelines"></Text>
+    <Text text="A new line for automatic import and automatic forward in CTMS"></Text>
     </VBox>
     </content>
     </Page>
