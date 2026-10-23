@@ -1,0 +1,11 @@
+<mvc:View controllerName="zfioritestforctms.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+    <VBox alignItems="Center">
+    <Text text="A Trail Application for exploring Cloud Transport Management System" ></Text>
+    </VBox>
+    </content>
+    </Page>
+</mvc:View>
