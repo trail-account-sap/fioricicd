@@ -7,6 +7,7 @@
     <Text text="A Trail Application for exploring Cloud Transport Management System" ></Text>
     <Text text="A Text to demonstrate the CI&amp;CD Pipelines"></Text>
     <Text text="A new line for automatic import and automatic forward in CTMS"></Text>
+    <Button text="Greet" press=".onGreet" type="Emphasized" width="100px"></Button>
     </VBox>
     </content>
     </Page>

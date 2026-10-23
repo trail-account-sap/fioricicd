@@ -5,6 +5,9 @@ sap.ui.define([
 
     return Controller.extend("zfioritestforctms.controller.View1", {
         onInit() {
+        },
+        onGreet(){
+            sap.m.MessageToast.show("Hello, Welcome to the Application");
         }
     });
 });
